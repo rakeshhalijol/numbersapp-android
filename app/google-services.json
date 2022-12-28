@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891826697306",
+    "project_id": "nokids-36288",
+    "storage_bucket": "nokids-36288.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891826697306:android:4f22ed191bb3cf2e3f5463",
+        "android_client_info": {
+          "package_name": "com.example.numbersforkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891826697306-esjeakiumd42731kusflvh388s3dbhik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY_Tmp2A9SZInMWlMsrTNoTUX_gG9z3fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891826697306-esjeakiumd42731kusflvh388s3dbhik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
